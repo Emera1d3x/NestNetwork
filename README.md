@@ -1,3 +1,3 @@
 # Nest Network
-Competitive Programming Problem
+Competitive Programming Problem <br>
 Type: Graph Theory, Dynamic Programming
